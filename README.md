@@ -2,6 +2,10 @@
 
 This script is designed to monitor the online/offline status of Minecraft users and notify a designated Discord channel when their status changes. It utilizes the Discord API and the Mojang and Hypixel APIs to retrieve user information and status.
 
+## Credits
+Thanks to https://github.com/kevin-dough for providing the majority of the code used in this project.
+
+
 ## Prerequisites
 
 - Python 3.6 or higher
