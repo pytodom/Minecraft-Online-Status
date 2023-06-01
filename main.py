@@ -6,7 +6,7 @@ import asyncio
 users = ["IGN", "IGN"]
 userdata = []
 
-key = "82aae1f7-1056-4211-9018-a3840568a697"
+key = "KEY"
 bot_token = "TOKEN"
 channel_id = "ID"
 
